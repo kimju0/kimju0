@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyoung0609)](https://solved.ac/juyoung0609/)
 <!--
 **kimju0/kimju0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
